@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Spidey Coder
 
-<!--
-**spideyycode6/spideyycode6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a learner developer focused on building the web and improving my coding skills consistently.
 
-Here are some ideas to get you started:
+## What I do
+- Frontend development  
+- Learning JavaScript and React  
+- Building small projects to understand core concepts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and technologies
+- HTML, CSS, JavaScript  
+- React  
+- VS Code  
+- Git and GitHub  
+
+## Goal
+To become a skilled and confident developer through continuous learning and practice.
