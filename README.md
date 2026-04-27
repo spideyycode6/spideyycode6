@@ -3,7 +3,7 @@
 I am a learner developer focused on building the web and improving my coding skills consistently.
 
 ## What I do
-- Frontend development  
+- Full Stack development  
 - Learning JavaScript and React  
 - Building small projects to understand core concepts  
 
