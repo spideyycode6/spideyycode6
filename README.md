@@ -8,9 +8,7 @@ I am a learner developer focused on building the web and improving my coding ski
 - Building small projects to understand core concepts  
 
 ## Tools and technologies
-- HTML, CSS, JavaScript  
-- React  
-- VS Code  
+- MERN
 - Git and GitHub  
 
 ## Goal
